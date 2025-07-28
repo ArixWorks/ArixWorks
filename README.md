@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack Developer | WordPress Expert | Product Maker</h3>
 
 <p align="center">
-  <a href="mailto:arixworkrs@gmail.com">Email</a> • 
+  <a href="mailto:ArixWorks@gmail.com">Email</a> • 
   <a href="https://k99.ir">Website</a> • 
   <a href="https://t.me/alirezaix">Telegram</a>
 </p>
@@ -27,15 +27,15 @@
 ---
 
 ### 🚀 Featured Projects  
-- [Marketplace Platform](https://github.com/arixworkrs/wp-marketplace)  
-- [Secure Download Plugin](https://github.com/arixworkrs/secure-download-plugin)  
+- [Marketplace Platform](https://github.com/ArixWorks/wp-marketplace)  
+- [Secure Download Plugin](https://github.com/ArixWorks/secure-download-plugin)  
 - [Personal Website](https://k99.ir)
 
 ---
 
 <!-- Optionally, add some stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arixworkrs&show_icons=true&theme=tokyonight" alt="arixworkrs stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ArixWorks&show_icons=true&theme=tokyonight" alt="ArixWorks stats"/>
 </p>
 
 ---
